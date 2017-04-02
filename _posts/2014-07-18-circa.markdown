@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: wallet.png
 alt: image-alt
 project-date: June 2016
 client: Centaurii, Inc.
