@@ -1,10 +1,10 @@
 # Site settings
 title: Gautam Narula
 email: gautamrnarula@gmail.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+url: https://gautam.software
+description: "The software portfolio of Gautam Narula, featuring web, mobile, and machine learaning/AI projects."
+skills: "Software Engineer - Author - Machine Learning and AI Enthusiast"
+meta_author: Narula Gautam
 
 # Google webmaster tools
 google_verify:
@@ -40,8 +40,8 @@ footer:
 social:
   - title: linkedin
     url: http://linkedin.com/in/gautamnarula
-  #- title: facebook
-  #  url:
+  - title: link
+    url: http://gautamnarula.com
   #- title: stack-overflow
   #  url: http://stackoverflow.com/questions/tagged/jekyll
   #- title: bitbucket
