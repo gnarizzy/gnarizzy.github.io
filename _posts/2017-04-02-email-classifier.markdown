@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2017-04-02
-img: safe.png
+img: speech-bubble2.png
 alt: image-alt
 project-date: April 2013
 technologies: Java, Matlab, Octave, Logisitic regression
