@@ -34,10 +34,6 @@ footer:
   copyright: Gautam Narula
   location: Location
   social: Around the Web
-  last_updated: Last updated
-  
- last_updated:
-  - timestamp: September 9, 2017 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
