@@ -2,7 +2,7 @@
 title: Gautam Narula
 email: gautamrnarula@gmail.com
 url: https://gautam.software
-description: "The software portfolio of Gautam Narula, featuring web, mobile, and machine learaning/AI projects."
+description: "The software portfolio of Gautam Narula, featuring web, mobile, and machine learning/AI projects."
 skills: "Software Engineer - Author - Machine Learning and AI Enthusiast"
 meta_author: Narula Gautam
 
@@ -50,7 +50,7 @@ social:
 
 #Postal address (add as many lines as necessary)
 address:
- - line: Atlanta, GA 30308
+ - line: Cambridge, MA 02139
 #  - line: Beverly Hills, CA 90210
 
 # Build settings
